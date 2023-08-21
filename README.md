@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muddypacket8
-- 👀 I’m interested in ...frontend coding
+- 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ...at moringa school
-- 💞️ I’m looking to collaborate on ...others 
+- 💞️ I’m looking to collaborate with...others 
 
